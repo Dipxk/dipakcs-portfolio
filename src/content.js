@@ -7,7 +7,7 @@ export const site = {
   github: 'https://github.com/Dipxk',
   linkedin: 'https://www.linkedin.com/in/dipak-cs/',
   resume: '/Dipak_Kumar_Resume.pdf',
-  live: 'https://grid-runner.onrender.com',
+  live: 'https://grid-runner-vnj2.onrender.com',
   about:
     'Computer Science at the University of Ottawa. I care about software that has to hold up — tests that catch real bugs, backends that stay up, products people actually open. Right now that means Python and C/C++ at Deltek, and on my own time real-time systems, full-stack product work, and live tools like Grid Runner.',
   now: 'Software engineer.',
@@ -71,7 +71,7 @@ export const work = [
     kind: 'Live',
     copy: 'A hundred robots on one warehouse floor. Block a path — they move around it. Nobody collides.',
     href: 'https://github.com/Dipxk/grid-runner',
-    live: 'https://grid-runner.onrender.com',
+    live: 'https://grid-runner-vnj2.onrender.com',
   },
   {
     title: 'RAG Document Q&A',
